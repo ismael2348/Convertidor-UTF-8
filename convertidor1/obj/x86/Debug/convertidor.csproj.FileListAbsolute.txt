@@ -1,0 +1,4 @@
+C:\Users\Recepcion\AppData\Local\Temporary Projects\convertidor\bin\Debug\convertidor.exe
+C:\Users\Recepcion\AppData\Local\Temporary Projects\convertidor\bin\Debug\convertidor.pdb
+C:\Users\Recepcion\AppData\Local\Temporary Projects\convertidor\obj\x86\Debug\convertidor.exe
+C:\Users\Recepcion\AppData\Local\Temporary Projects\convertidor\obj\x86\Debug\convertidor.pdb
