@@ -1,0 +1,8 @@
+C:\Users\Recepcion\AppData\Local\Temporary Projects\Formateador\bin\Debug\Formateador.exe
+C:\Users\Recepcion\AppData\Local\Temporary Projects\Formateador\bin\Debug\Formateador.pdb
+C:\Users\Recepcion\AppData\Local\Temporary Projects\Formateador\obj\x86\Debug\Formateador.exe
+C:\Users\Recepcion\AppData\Local\Temporary Projects\Formateador\obj\x86\Debug\Formateador.pdb
+Z:\formateador\Formateador\Formateador\obj\x86\Debug\Formateador.exe
+Z:\formateador\Formateador\Formateador\obj\x86\Debug\Formateador.pdb
+Z:\formateador\Formateador\Formateador\bin\Debug\Formateador.exe
+Z:\formateador\Formateador\Formateador\bin\Debug\Formateador.pdb
