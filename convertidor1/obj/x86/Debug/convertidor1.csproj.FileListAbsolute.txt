@@ -1,5 +1,0 @@
-Z:\Ismael Gonzalez\PROYECTOS\convertidor1\convertidor1\obj\x86\Debug\convertidor1.csprojResolveAssemblyReference.cache
-Z:\Ismael Gonzalez\PROYECTOS\convertidor1\convertidor1\bin\Debug\ConvertidorUTF8.exe
-Z:\Ismael Gonzalez\PROYECTOS\convertidor1\convertidor1\bin\Debug\ConvertidorUTF8.pdb
-Z:\Ismael Gonzalez\PROYECTOS\convertidor1\convertidor1\obj\x86\Debug\ConvertidorUTF8.exe
-Z:\Ismael Gonzalez\PROYECTOS\convertidor1\convertidor1\obj\x86\Debug\ConvertidorUTF8.pdb

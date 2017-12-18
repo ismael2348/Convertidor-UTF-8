@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{F6FBCED2-ED3A-4FF8-AAE5-9D16BF69F6EF}</ProjectGuid>
+    <ProjectGuid>{280E07C8-2DC3-4CE6-8225-24BF58908309}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Formateador</RootNamespace>
-    <AssemblyName>Formateador</AssemblyName>
+    <RootNamespace>Convertidor_2._0</RootNamespace>
+    <AssemblyName>Convertidor 2.0</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

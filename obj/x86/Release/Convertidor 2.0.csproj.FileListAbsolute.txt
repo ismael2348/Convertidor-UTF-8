@@ -1,0 +1,4 @@
+C:\Users\mayel\AppData\Local\Temporary Projects\Convertidor 2.0\bin\Release\Convertidor 2.0.exe
+C:\Users\mayel\AppData\Local\Temporary Projects\Convertidor 2.0\bin\Release\Convertidor 2.0.pdb
+C:\Users\mayel\AppData\Local\Temporary Projects\Convertidor 2.0\obj\x86\Release\Convertidor 2.0.exe
+C:\Users\mayel\AppData\Local\Temporary Projects\Convertidor 2.0\obj\x86\Release\Convertidor 2.0.pdb

@@ -110,8 +110,14 @@ namespace convertidor
                     /*Guarda y crea el archivo , se le agrega un prefijo para diferenciar el archivo ya formateado*/
                     File.WriteAllText(path2 + '\\' + prefijo + fileName, readFileAsUtf8(file));
                 }
-
+                //Obtenemos los archivos del directorio 
+                string[] archivosDelete = Directory.GetFiles(path1);
+                //Borramos los archivos del directorio 
+                foreach (string filePath in archivosDelete)
+                    File.Delete(filePath);
+                ///////////////////////////////////////////////////////
                 System.Console.Write("\n\nProceso de conversión finalizado.");
+
             }
         }
 

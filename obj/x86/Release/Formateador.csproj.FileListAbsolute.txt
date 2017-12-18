@@ -1,8 +1,0 @@
-C:\Users\Recepcion\AppData\Local\Temporary Projects\Formateador\bin\Release\Formateador.exe
-C:\Users\Recepcion\AppData\Local\Temporary Projects\Formateador\bin\Release\Formateador.pdb
-C:\Users\Recepcion\AppData\Local\Temporary Projects\Formateador\obj\x86\Release\Formateador.exe
-C:\Users\Recepcion\AppData\Local\Temporary Projects\Formateador\obj\x86\Release\Formateador.pdb
-Z:\formateador\Formateador\Formateador\bin\Release\Formateador.exe
-Z:\formateador\Formateador\Formateador\bin\Release\Formateador.pdb
-Z:\formateador\Formateador\Formateador\obj\x86\Release\Formateador.exe
-Z:\formateador\Formateador\Formateador\obj\x86\Release\Formateador.pdb
